@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Lab-by-Ordinary-Company/.github/main/profile/the-lab-logo.svg" alt="The Lab" width="64" />
+  <img src="https://raw.githubusercontent.com/The-Lab-by-Ordinary-Company/.github/main/profile/the-lab-logo.svg" alt="The Lab" width="128" />
 </p>
 
 <p align="center">
@@ -14,9 +14,7 @@
 
 ---
 
-We make beautiful digital products — clean design systems brought to life with code.
-
-UI/UX design, full-stack engineering, and experimental R&D out of Cincinnati, OH. We work across SvelteKit, Next.js, and React, and we open-source as much as we can.
+We make beautiful software. UI/UX design, full-stack dev, and experimental R&D out of Cincinnati, OH. We work across SvelteKit, Next.js, and React, and we open-source as much as we can.
 
 <br>
 
