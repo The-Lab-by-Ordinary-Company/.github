@@ -14,7 +14,7 @@
 
 ---
 
-We make beautiful software. UI/UX design, full-stack dev, and experimental R&D out of Cincinnati, OH. We work across SvelteKit, Next.js, and React, and we open-source as much as we can.
+We make beautiful software.
 
 <br>
 
@@ -22,7 +22,7 @@ We make beautiful software. UI/UX design, full-stack dev, and experimental R&D o
 Now shipping
 ```
 
-**[Utsuwa](https://www.utsuwa.ai)** — Open-source app for creating and animating AI-powered virtual characters. Built with SvelteKit.
+**[Utsuwa](https://www.utsuwa.ai/docs)** — Open-source app for creating and animating AI-powered virtual characters. Built with SvelteKit.
 
 **[Pomodorii](https://www.pomodorii.com)** — The most delightful pomodoro timer on the internet. Built with Next.js.
 
